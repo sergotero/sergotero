@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Currently enrolled in IronHack's Full-Stack Web Development Bootcamp.
+- Master IA Web Development by IronHack (2025-2026).
 - Higher National Diploma (HND) in Web Application Development (2022–2025) – EQF Level 5.
 - Bachelor’s Degree in Advertising and Public Relations by University of Vigo (2008–2012).
 
